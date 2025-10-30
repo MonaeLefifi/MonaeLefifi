@@ -1,8 +1,11 @@
 # 👋 Bonjour! I'm  Olebogeng Matseba
-Welcome to my GitHub! I'm currently enrolled in the **AWS re/Start program**, where I'm building a strong foundation in **cloud computing** and preparing for a career as a **Systems Administrator**. My mission is to use technology not just to solve problems—but to create scalable solutions that empower communities and drive meaningful change.
+Welcome to my GitHub! I'm currently enrolled in the **AWS re/Start program**, where I'm building a strong foundation in cloud computing and preparing for a career as a Systems Administrator. My mission is to use technology not just to solve problems—but to create scalable solutions that empower communities and drive meaningful change.
+
+## 👩‍💻 About Me
+I come from a Computer Science background, which has equipped me with a solid understanding of programming, algorithms, and system design. This foundation fuels my passion for cloud computing, where I see endless opportunities to apply my skills in building secure, efficient, and innovative solutions. I’m driven by a desire to use technology as a force for good—whether it’s optimizing infrastructure, improving access to digital resources, or helping organizations become more resilient.
 
 ## 🌍 Why Cloud Computing?
-Cloud technology is more than infrastructure—it's a catalyst for innovation. I believe it can improve access, efficiency, and resilience across industries and communities. As I grow in this field, I aim to be a **changemaker** who helps organizations thrive in the digital era by building secure, scalable, and resilient systems.
+Cloud technology is more than infrastructure—it's a catalyst for innovation. I believe it can improve access, efficiency, and resilience across industries and communities. As I grow in this field, I aim to be a changemaker who helps organizations thrive in the digital era by building secure, scalable, and resilient systems.
 
 # 🔧 What I’m working on:
 - Gaining hands-on experience with AWS services
@@ -32,7 +35,7 @@ Cloud technology is more than infrastructure—it's a catalyst for innovation. I
 - **Purpose-Driven Thinking**: Tackling challenges with a mission to create impact through technology
 
 ## 🌟 Looking Ahead
-As a cloud computing student, I aspire to become a **Systems Administrator** who not only manages infrastructure—but empowers organizations to harness the full potential of the cloud. My goal is to build systems that support innovation and make a meaningful impact. Through continuous learning and hands-on experience, I'm committed to becoming a trusted technical leader who drives progress and helps others thrive in the digital age.
+As a cloud computing student, I aspire to become a Systems Administrator who not only manages infrastructure—but empowers organizations to harness the full potential of the cloud. My goal is to build systems that support innovation and make a meaningful impact. Through continuous learning and hands-on experience, I'm committed to becoming a trusted technical leader who drives progress and helps others thrive in the digital age.
 
 ## 📫 Let's Connect
 Feel free to explore my repositories, follow my journey, and reach out if you'd like to collaborate or share ideas!
